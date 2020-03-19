@@ -1,6 +1,6 @@
-## Lesson-3
+## Lesson-5
 
-Going through our folder structure for the project, breaking out homepage component into smaller components
+Going over the concept of higher order components through use of the withRouter HOC from react-router-dom.
 
 # How to fork and clone
 
